@@ -11,6 +11,10 @@ build/
 .env.dev
 .env.prod
 .env
+llm-service/venv/
+llm-service/.env
+ocr-service/venv/
+ocr-service/.env
 .idea/
 .vscode/
 *.swp
